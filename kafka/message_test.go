@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// +build unit_test
+
 package kafka
 
 import (
